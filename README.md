@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Vasist Acharya
 
-🎓 I'm a Computer Science undergrad (Specialization: CyberSecurity)
+🎓 I'm a Computer Science undergrad (Specialization: Data Science)
 
-🚀 Learning Full Stack Development | AI | ML | Deep Learning 
+🚀 Learning Data Engineering | AI | ML | Deep Learning 
 
 🌱 Building projects that merge tech and impact
 
