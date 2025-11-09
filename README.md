@@ -37,13 +37,6 @@
 
 ---
 
-## 🏆 Certifications  
-- 🪣 **AWS Cloud Quest – Generative AI Practitioner** *(2025)*  
-- ☁️ **AWS Academy Cloud Foundations Graduate** *(2023)*  
-- 🧱 **Oracle Data Platform Certified Foundations Associate** *(2025)*  
-
----
-
 ## 🧠 Currently Learning  
 - Data Lakehouse Architectures (Snowflake, Redshift)  
 - Apache Airflow for Workflow Automation  
@@ -58,5 +51,8 @@
 ---
 
 ## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasist_Acharya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vasistacharya)  
-[![GitHub](https://img.shields.io/badge/GitHub-VasistAcharya-black?style=flat&logo=github)](https://github.com/VasistAcharya)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasist_Acharya-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vasistacharya) 
+[![Credly](https://img.shields.io/badge/Credly-Vasist_Acharya-orange?style=flat&logo=credly)](https://www.credly.com/users/vasist-acharya/badges#credly)  
+[![Instagram](https://img.shields.io/badge/Instagram-@vasist.acharya-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vasist.acharya)  
+
+---
