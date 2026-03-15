@@ -5,15 +5,8 @@ CSE (Data Science) undergrad building across **AI systems, data engineering, and
 I like working at the intersection of  
 - intelligent models  
 - real-world data pipelines  
-- usable products  
-
----
-
-## What I work on  
-- Applied machine learning systems and experimental AI ideas  
-- Data processing pipelines, analytics workflows and backend infrastructure  
-- Full-stack platforms that make technical systems actually usable  
-
+- usable products
+- 
 ---
 
 ## Areas I’m exploring  
