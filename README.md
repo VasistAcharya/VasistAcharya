@@ -6,7 +6,6 @@ I like working at the intersection of
 - intelligent models  
 - real-world data pipelines  
 - usable products
-- 
 ---
 
 ## Areas I’m exploring  
@@ -19,7 +18,7 @@ Python · Java · SQL · JavaScript
 TensorFlow · PyTorch · Scikit-learn  
 React · Node · Firebase · Supabase  
 Kafka · relational / vector databases  
-AWS ecosystem  
+AWS  
 
 ---
 
