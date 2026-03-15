@@ -39,4 +39,3 @@ Building projects, leading technical initiatives, and experimenting with new sys
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasist_Acharya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasistacharya)
 [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/vasist-acharya)
-[![GitHub](https://img.shields.io/badge/GitHub-VasistAcharya-181717?style=flat&logo=github&logoColor=white)](https://github.com/VasistAcharya)
