@@ -41,12 +41,6 @@ REST APIs · full-stack apps · system design basics
 Git · cloud basics · distributed systems (learning phase)  
 
 ---
-## Certifications  
-
-[![SAP ABAP Cloud Back-End Developer](IMAGE_URL)](https://www.credly.com/badges/013864cd-9004-4aa2-9dca-7a87ab6e1a20/public_url)
-[![AWS AI Practitioner](IMAGE_URL)](https://www.credly.com/badges/1827f8d0-117d-4e6e-bf88-99d80e263f46/public_url)
-[![AWS Data Engineer Training](IMAGE_URL)](https://www.credly.com/badges/2da326d4-6b93-41d5-8377-adc9b88eebed/public_url)
----
 
 ## Socials  
 
