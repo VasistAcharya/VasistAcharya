@@ -1,31 +1,60 @@
 # Hey, I'm Vasist  
 
-CSE (Data Science) undergrad building across **AI systems, data engineering, and scalable applications.**
-
-I like working at the intersection of  
-- intelligent models  
-- real-world data pipelines  
----
-
-## Areas I’m exploring  
-Distributed data systems · stream processing · graph learning · ML deployment · cloud architectures  
+CSE (Data Science) undergrad exploring **systems, data, and intelligent applications** — mostly trying to understand how things actually work under the hood and scale beyond toy projects.**
 
 ---
 
-## Stack  
-Python · Java · SQL · JavaScript  
-TensorFlow · PyTorch · Scikit-learn  
-React · Node · Firebase · Supabase  
-Kafka · relational / vector databases  
-AWS  
+## What I’ve been doing  
+
+- building small pipelines just to see where things fail  
+- trying to make sense of messy data instead of clean datasets  
+- experimenting with “okay this works locally… now what?”  
+- slowly moving from random scripts → something that actually resembles a system  
 
 ---
 
-## Currently  
-Building projects, leading technical initiatives, and experimenting with new system-driven AI ideas.  
+## Stack (kinda evolving)  
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### Data + Systems  
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+ETL · data pipelines · schema design · query optimization  
+### ML / AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+scikit-learn · NLP · embeddings · model deployment  
+### Backend / Apps  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+REST APIs · full-stack apps · system design basics  
+### Tools / Infra  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+Git · cloud basics · distributed systems (learning phase)  
+
+---
+## Certifications  
+
+<!-- Replace with your actual badge links -->
+[![Credly](https://img.shields.io/badge/Credly-View%20Badges-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/vasist-acharya)
+
+<!-- Example: if you want to embed specific badges --> 
+![SAP Certified - Back-End Developer - ABAP Cloud](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="013864cd-9004-4aa2-9dca-7a87ab6e1a20" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+![AWS AI Practitioner(AIF-01)](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1827f8d0-117d-4e6e-bf88-99d80e263f46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+![AWS Data Engineer Training](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2da326d4-6b93-41d5-8377-adc9b88eebed" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+
 
 ---
 
+## Socials  
 ## Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasist_Acharya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasistacharya)
