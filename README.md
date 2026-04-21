@@ -42,16 +42,13 @@ Git · cloud basics · distributed systems (learning phase)
 
 ---
 ## Certifications  
-<!-- Example: if you want to embed specific badges --> 
-[![SAP Certified - Back-End Developer - ABAP Cloud](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="013864cd-9004-4aa2-9dca-7a87ab6e1a20" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)]
-[![AWS AI Practitioner(AIF-01)](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1827f8d0-117d-4e6e-bf88-99d80e263f46" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)]
-[![AWS Data Engineer Training](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2da326d4-6b93-41d5-8377-adc9b88eebed" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)]
 
-
+[![SAP ABAP Cloud Back-End Developer](IMAGE_URL)](https://www.credly.com/badges/013864cd-9004-4aa2-9dca-7a87ab6e1a20/public_url)
+[![AWS AI Practitioner](IMAGE_URL)](https://www.credly.com/badges/1827f8d0-117d-4e6e-bf88-99d80e263f46/public_url)
+[![AWS Data Engineer Training](IMAGE_URL)](https://www.credly.com/badges/2da326d4-6b93-41d5-8377-adc9b88eebed/public_url)
 ---
 
 ## Socials  
-## Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasist_Acharya-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasistacharya)
 [![Credly](https://img.shields.io/badge/Credly-Badges-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/vasist-acharya)
