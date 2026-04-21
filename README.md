@@ -1,6 +1,6 @@
 # Hey, I'm Vasist  
 
-CSE (Data Science) undergrad exploring **systems, data, and intelligent applications** — mostly trying to understand how things actually work under the hood and scale beyond toy projects.**
+CSE (Data Science) undergrad exploring **systems, data, and intelligent applications** — mostly trying to understand how things actually work under the hood and scale beyond toy projects.
 
 ---
 
